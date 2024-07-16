@@ -1,0 +1,8 @@
+Name	Start Date	Priority	Cost Estimate	Completion Percentage
+Build Car Park	12/09/2021	2	600000.0	95
+Mow Lawn	31/10/2022	3	3.0	0
+Organise Pantry	20/07/2022	6	25.0	100
+Record Music Video	01/12/2022	9	250000.0	0
+Read 7 Habits Book	13/12/2021	6	99.0	100
+Marcus Thum	20/10/2000	5	1000	50
+Banana	30/10/2024	5	9000	100
