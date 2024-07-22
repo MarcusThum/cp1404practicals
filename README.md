@@ -1,7 +1,6 @@
 # CP1404 Practicals
 
-## Practical 7
-Started using README.md Markdown File. Coding for review. Name not Listed. Submitted Late.
-Assignment 1 completed, but also late.
+## Practical 8
+Practical 08 Done on 22/7/2024 at 3.17PM - Waiting on Pull Request
 
 Practical work for IT@JCU CP1404
